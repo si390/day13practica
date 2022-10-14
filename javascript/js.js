@@ -18,7 +18,7 @@ let auto = {
     posicion: 0,
     avanzar: function(n) {
         this.posicion = this.posicion + n;
-        return 'La posicion es' + this.posicion;
+        return 'La posicion es ' + this.posicion;
     }
 }
 
